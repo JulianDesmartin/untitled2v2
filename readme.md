@@ -18,5 +18,5 @@ On à ici crée notre espace de travail :
 - création du readme sur notre projet Git
 - réalisation de maquette sur `Balsamiq`
 ![image](image/New Mockup 1.png)
-![image2](image/New Mockup 2.png)
+![image2](https://github.com/JulianDesmartin/untitled2v2/blob/master/image/New%20Mockup%201.png)
 - écriture des pages html en utilisant `Bootstrap`
